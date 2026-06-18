@@ -2,6 +2,9 @@
 
 Registro de versiones y sesiones de la web. La versión actual también aparece en el pie de la web y en el `<head>` de `index.html` (APP_VERSION).
 
+## v1.2.1 — 2026-06-18 · sesión 2 (parte 4)
+- La **versión se muestra de forma clara y legible** en el pie de la web (badge `v1.2.1`), antes estaba en gris muy tenue.
+
 ## v1.2.0 — 2026-06-18 · sesión 2 (parte 3)
 - **Reorganización por archivos**: `index.html` (contenido) · `css/estilos.css` (diseño) · `js/main.js` (comportamiento) · `imagenes/logo.png` · `docs/`.
 - Versión visible en el pie de la web y APP_VERSION en el `<head>`.

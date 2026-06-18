@@ -17,4 +17,4 @@ Busca esos textos en `index.html` y cámbialos por los reales (también el núme
 Avísale a Claude y los sube. En 1-2 minutos están online en:
 **https://lualeji7509-del.github.io/reformas-oliveros/**
 
-## Versión actual: **v1.2.0** — historial en [SYSTEM_LOG.md](SYSTEM_LOG.md)
+## Versión actual: **v1.2.1** — historial en [SYSTEM_LOG.md](SYSTEM_LOG.md)

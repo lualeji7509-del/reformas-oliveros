@@ -13,5 +13,5 @@ docs/SYSTEM_LOG.md   → historial de versiones
 docs/GUIA_EDITAR.md  → guía rápida para editar
 ```
 
-## Versión: v1.2.0
+## Versión: v1.2.1
 Historial completo en [docs/SYSTEM_LOG.md](docs/SYSTEM_LOG.md).
